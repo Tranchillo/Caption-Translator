@@ -68,6 +68,7 @@ Replace `it` with your desired target language code (e.g. `en`, `fr`, `de`, `es`
 ## 📝 Output
 
 For each file like `001.txt`, a translated file such as `001_it.txt` will be created in the `translation` subfolder.
+![Example](example.png)
 
 ## 📄 License
 
