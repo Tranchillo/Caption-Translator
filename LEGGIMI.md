@@ -68,6 +68,7 @@ Sostituisci `it` con il codice della lingua di destinazione desiderata (ad esemp
 ## 📝 Output
 
 Per ogni file come `001.txt`, un file tradotto come `001_it.txt` verrà creato nella sottocartella `translation`.
+![Example](example.png)
 
 ## 📄 Licenza
 
